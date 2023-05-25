@@ -10,7 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "strapi": "4.10.6",
+    "strapi": "4.8.2",
     "@strapi/admin": "4.9.2",
     "@strapi/connector-mongoose": "4.8.2",
     "@strapi/plugin-graphql": "4.10.5",
