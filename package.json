@@ -12,7 +12,7 @@
   "dependencies": {
     "strapi": "4.8.2",
     "@strapi/admin": "4.9.2",
-    "@strapi/connector-mongoose": "4.8.2",
+    "@strapi/connector-mongoose": "3.6.11",
     "@strapi/plugin-graphql": "4.10.5",
     "@strapi/plugin-users-permissions": "4.8.2",
     "@strapi/utils": "4.10.5",
